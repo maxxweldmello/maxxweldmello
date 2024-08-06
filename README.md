@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-# Maxwel Dmello
+# I am "Maxwel Dmello", but you can call me 'Maxx'
 
-**Bachelor in Engineering - Information Technology**  
-Don Bosco Institute of Technology (D.B.I.T)  
-**Email**: maxxdmello777@gmail.com  
+**I have a Bachelors in Engineering - Information Technology**  
+[Don Bosco Institute of Technology](https://www.dbit.in/), Mumbai 400070, India via Mumbai University
+
+**My Email**: maxxdmello777@gmail.com  
 
 ---
 
@@ -13,7 +14,7 @@ I'm a passionate software developer with skilled experience in developing softwa
 
 ---
 
-## Skills
+## My Skills
 - **Programming Languages**:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,19 +38,19 @@ I'm a passionate software developer with skilled experience in developing softwa
 
 ---
 
-## Co-curricular Activities
-- **Product Manager for DBIT Physics Club**: Led the design and development of the official website(https://physicsclub.dbit.in/) for the DBIT Physics Club.
+## Some Co-curricular Activities
+- **Product Manager for [DBIT Physics Club](https://physicsclub.dbit.in/)**: Led the design and development of the official website for the DBIT Physics Club.
 - **Event Capturer at Escape Room 2023 (Colosseum DBIT)**: Skillfully captured memories through photographic expertise.
 
 ---
 
-## Hobbies and Interests
+## & My Hobbies and Interests
 - Skilled in playing the saxophone.
 - Active in volunteering and community service.
 
 ---
 
-Here are some ideas to get you started:
+Oh & Also:
 
 - 🔭 I’m currently working on building and enhancing web applications using modern frameworks.
 - 🌱 I’m currently learning advanced topics in Web-Application Development and practicing backend technologies
