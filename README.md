@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am "Maxwel Dmello", but you can call me 'Maxx'
+# I am "Maxwel Dmello"
 
 **I have a Bachelors in Engineering - Information Technology**  
 [Don Bosco Institute of Technology](https://www.dbit.in/), Mumbai 400070, India via Mumbai University
