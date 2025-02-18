@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxwel Dmello</h1>
 <h3 align="center">Engineering Graduate | Web & API Developer | Passionate About Seamless & Secure Digital Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxxweldmello&label=Profile%20views&color=0e75b6&style=flat" alt="maxxweldmello" /> </p>
-
 - 🌱 I’m currently learning **Angular, Spring Boot, OAuth, WebSockets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maxxweldmello](https://github.com/maxxweldmello)
