@@ -1,21 +1,96 @@
 <h1 align="center">Hi 👋, I'm Maxwel Dmello</h1>
-<h3 align="center">Engineering Graduate | Web & API Developer | Passionate About Seamless & Secure Digital Solutions</h3>
+<h3 align="center">Backend Engineer | Java • Spring Boot • Microservices • System Design</h3>
 
-- 🌱 I’m currently learning **Angular, Spring Boot, OAuth, WebSockets**
-
-- 👨‍💻 All of my projects are available at [https://github.com/maxxweldmello](https://github.com/maxxweldmello)
-
-- 📫 How to reach me **maxxdmello777@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P4KGUmLoBJi4mRDsHrtVhFTf6RIYJv5K/view?usp=drive_link](https://drive.google.com/file/d/1P4KGUmLoBJi4mRDsHrtVhFTf6RIYJv5K/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maxwel-dmello-634405203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxwel-dmello-634405203" height="30" width="40" /></a>
-<a href="https://instagram.com/juztmaxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juztmaxx" height="30" width="40" /></a>
+<p align="center">
+  <em>Focused on building scalable, high-performance backend systems with clean architecture & secure API design.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxxweldmello&show_icons=true&locale=en&layout=compact" alt="maxxweldmello" /></p>
+## 🚀 About Me
+- 🔭 Backend-focused developer working with **Java, Spring Boot & Microservices**
+- 🌱 Currently leveling up in **OAuth2, Spring Security, Angular & WebSockets**
+- 🧩 Interested in **Distributed Systems, Event-Driven Architecture & Cloud Deployments**
+- 📫 Reach me at **maxxdmello777@gmail.com**
+- 🗂️ Projects: https://github.com/maxxweldmello  
+- 📄 Resume:  
+  https://drive.google.com/file/d/1P4KGUmLoBJi4mRDsHrtVhFTf6RIYJv5K/view?usp=drive_link
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/maxwel-dmello-634405203" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/juztmaxx" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="38"/>
+  </a>
+</p>
+
+---
+
+# 🧰 **Tech Stack (Bold • Minimal • Backend-Heavy)**
+
+### **Backend & Frameworks**
+<p>
+  <img src="https://cdn.simpleicons.org/java/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/spring/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/springboot/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/apachemaven/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/gradle/ffffff" width="45"/>
+</p>
+
+### **Databases**
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/redis/ffffff" width="45"/>
+</p>
+
+### **DevOps & Cloud**
+<p>
+  <img src="https://cdn.simpleicons.org/docker/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/kubernetes/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/git/ffffff" width="45"/> 
+</p>
+
+### **Tools**
+<p>
+  <img src="https://cdn.simpleicons.org/postman/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/ffffff" width="45"/> &nbsp;
+  <img src="https://cdn.simpleicons.org/intellijidea/ffffff" width="45"/>
+</p>
+
+---
+
+## 🏗️ **Backend Strengths**
+- Microservices Architecture  
+- REST & Reactive API design  
+- Spring Security, OAuth2, JWT  
+- SQL & NoSQL Data Modeling  
+- Event-Driven Systems (Kafka/RabbitMQ)  
+- Cloud Deployments (AWS)  
+- CI/CD & Scalable System Design  
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maxxweldmello&show_icons=true&theme=highcontrast" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxweldmello&layout=compact&theme=highcontrast" />
+</p>
+
+---
+
+## 🔥 Guiding Quote
+> **“Backend engineering is invisible craftsmanship — your users never see it, but they feel every mistake.”**
+
+---
+
+### 💬 Thanks for visiting!  
+If you like my work, feel free to ⭐ my repos!
